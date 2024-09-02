@@ -1,0 +1,9 @@
+f407_test\perfc_port_default.o: ..\perf_counter\perfc_port_default.c
+f407_test\perfc_port_default.o: C:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+f407_test\perfc_port_default.o: C:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+f407_test\perfc_port_default.o: C:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+f407_test\perfc_port_default.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+f407_test\perfc_port_default.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+f407_test\perfc_port_default.o: ..\perf_counter\perf_counter.h
+f407_test\perfc_port_default.o: C:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+f407_test\perfc_port_default.o: ..\perf_counter\perfc_port_default.h

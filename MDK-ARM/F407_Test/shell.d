@@ -1,0 +1,9 @@
+f407_test\shell.o: ..\LetterShell\src\shell.c
+f407_test\shell.o: ..\LetterShell\src\shell.h
+f407_test\shell.o: ..\LetterShell\src\shell_cfg.h
+f407_test\shell.o: C:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+f407_test\shell.o: C:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+f407_test\shell.o: ..\LetterShell\src\shell_cfg.h
+f407_test\shell.o: C:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+f407_test\shell.o: C:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+f407_test\shell.o: ..\LetterShell\src\shell_ext.h
