@@ -44,6 +44,7 @@
 "f407_test\sys.o"
 "f407_test\perf_counter.o"
 "f407_test\perfc_port_default.o"
+"f407_test\modbus_port.o"
 --library_type=microlib --strict --scatter "F407_Test\F407_Test.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers

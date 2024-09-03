@@ -44,7 +44,7 @@ f407_test\stm32f4xx_it.o: ../FreeRTOS/include/mpu_wrappers.h
 f407_test\stm32f4xx_it.o: ../FreeRTOS/include/task.h
 f407_test\stm32f4xx_it.o: ../FreeRTOS/include/list.h
 f407_test\stm32f4xx_it.o: ../Moudle/uart_api.h
-f407_test\stm32f4xx_it.o: ..\User\circular_queue.h
+f407_test\stm32f4xx_it.o: ../User/circular_queue.h
 f407_test\stm32f4xx_it.o: ../perf_counter/perf_counter.h
 f407_test\stm32f4xx_it.o: C:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 f407_test\stm32f4xx_it.o: ../perf_counter/perfc_port_default.h

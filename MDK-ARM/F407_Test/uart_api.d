@@ -34,5 +34,5 @@ f407_test\uart_api.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
 f407_test\uart_api.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
 f407_test\uart_api.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
 f407_test\uart_api.o: C:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-f407_test\uart_api.o: ..\User\circular_queue.h
+f407_test\uart_api.o: ../User/circular_queue.h
 f407_test\uart_api.o: C:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

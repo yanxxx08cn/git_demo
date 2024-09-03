@@ -4,8 +4,11 @@
 #include <string.h>
 
 uint8_t Uartx_DMA_RxBuffer[UDI_NUM][UARTX_DMA_RXBUFFER_SIZE];
+
 uint8_t Uartx_RxBuffer[UDI_NUM][UARTX_RXBUFFER_SIZE];
+
 uint8_t Uartx_TxBuffer[UDI_NUM][UARTX_TXBUFFER_SIZE];
+
 CIRCULAR_QUEUE Uartx_RxCircularQueue[UDI_NUM];
 
 void Uart_RxIdleCpltCallBack(UART_HandleTypeDef *huart)

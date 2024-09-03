@@ -47,7 +47,7 @@ f407_test\main.o: ../FreeRTOS/include/task.h
 f407_test\main.o: ../FreeRTOS/include/list.h
 f407_test\main.o: ../Moudle/timestamp.h
 f407_test\main.o: ../Moudle/uart_api.h
-f407_test\main.o: ..\User\circular_queue.h
+f407_test\main.o: ../User/circular_queue.h
 f407_test\main.o: ../LetterShell/inc/shell_port.h
 f407_test\main.o: ../LetterShell/src/shell.h
 f407_test\main.o: ../LetterShell/src/shell_cfg.h

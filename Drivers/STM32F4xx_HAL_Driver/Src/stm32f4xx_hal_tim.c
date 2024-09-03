@@ -46,7 +46,7 @@
   ==============================================================================
   [..] The Timer features include:
        (#) 16-bit up, down, up/down auto-reload counter.
-       (#) 16-bit programmable prescaler allowing dividing (also on the fly) the
+       (#) 16-bit programmable gitprescaler allowing dividing (also on the fly) the
            counter clock frequency either by any factor between 1 and 65536.
        (#) Up to 4 independent channels for:
            (++) Input Capture
